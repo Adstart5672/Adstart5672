@@ -86,13 +86,12 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     &esmp;
    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white></a>
-   &esmp;
-    
+   &esmp;   
 </p>
 
 <br />
 
-## 🙋‍♀️ Let's Connect
+### 🙋‍♀️ Let's Connect
 
 <p align="center">
         <a href="mailto:adlerartsj@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
