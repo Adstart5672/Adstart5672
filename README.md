@@ -58,18 +58,19 @@
   &emsp;
  </p>
 
-<br/>  
+<br/> 
+ 
 ### Graphic Designing 
 <p align="left">
-  &esmp;
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
+
 <br/>
  
- ### 👉 Software & Tools
+ 
+### 👉 Software & Tools
 
 <p>
-  &emsp;
     <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
@@ -84,7 +85,7 @@
   &emsp;
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     &esmp;
-   <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white></a<
+   <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white></a>
     
 </p>
 
