@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Full+Stack+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"> I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. </h4>
+<h4 align="center"> I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a person who loves to take up new challenges and learn new skills. </h4>
 <br>
 
 
@@ -19,8 +19,6 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp; 
- 
     <a><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
