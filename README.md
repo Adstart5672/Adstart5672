@@ -29,10 +29,10 @@
 
 ### 👉 Programming languages
 <p align="left">
-  <a><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+  <a><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge"></a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge">
   </a>
   &emsp;
   <a href="https://www.java.com" target="_blank">
@@ -43,23 +43,25 @@
 ### 👉 Frontend Development
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge">
   </a>
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge">
   </a>
   &emsp;
   <a href="https://tailwindcss.com/">
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge"/>
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+<br>
+
+### 👉 Databases
 <p align="left">
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
-  <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+  <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge"/></a>
 </p>
 <br>
 
@@ -93,11 +95,11 @@
 
 ### 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="mailto:adlerartsj@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="mailto:adlerartsj@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail"/></a>
   <a href="https://github.com/Adstart5672"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://x.com/AdlerArt18"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FAdlerArt18&style=flat-square&logo=X&labelColor=%23000000&color=%23000000" alt="X"/></a>
-  <a href="https://www.instagram.com/adlerartsj?igsh=M2h5Nmk2M2xyNWd3"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-  <a href="https://youtube.com/@adlerart7?si=OxVE16pTcRzJtjdQ"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+  <a href="https://x.com/AdlerArt18"><img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" alt="X"/></a>
+  <a href="https://www.instagram.com/adlerartsj?igsh=M2h5Nmk2M2xyNWd3"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram"/></a>
+  <a href="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge" alt="Youtube"/></a>
 </p>
 
 
